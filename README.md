@@ -1,2 +1,2 @@
-# HOC_Example
+# setState_Example
 Created with CodeSandbox
