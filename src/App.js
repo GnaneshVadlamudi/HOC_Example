@@ -5,6 +5,20 @@ class App extends React.Component {
   
   state = { inputValue: '' };
 
+/* need to implement hoc
+  
+  const Username = (props) => (
+    <div>{props.children}</div>
+  )
+
+  const UpperCaseUsername = hoc(Username)
+
+  const App = () => (
+    <div>
+      <UpperCaseUsername>Kingsley</UpperCaseUsername>
+    </div>
+  ); */
+  
 
   handleSearch = () => {
     
